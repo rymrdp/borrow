@@ -23,3 +23,13 @@ a.	Admin – The admin is capable of maintaining the librarians. He or she can e
 
 b.	Librarians – The librarians are capable of adding books, maintaining information of the books, deleting books, issuing books to students and returning books.
  
+Walkthrough
+![image](https://user-images.githubusercontent.com/102867575/161390628-cdece82b-3e64-4859-ba47-dc516bea3539.png)
+![image](https://user-images.githubusercontent.com/102867575/161390639-652f42a6-eaa0-41b0-861a-c3ea12dba5e2.png)
+![image](https://user-images.githubusercontent.com/102867575/161390643-f03b9ec1-63ae-4ac9-ac82-4ef0f97b6d9c.png)
+![image](https://user-images.githubusercontent.com/102867575/161390655-1cf13b73-7a66-44a9-afd0-76db2693a5ad.png)
+![image](https://user-images.githubusercontent.com/102867575/161390657-5539c969-e583-4be6-9789-52e46b0bf148.png)
+![image](https://user-images.githubusercontent.com/102867575/161390647-bc5023be-46a4-43b7-ba6e-cc7ba7382eb0.png)
+![image](https://user-images.githubusercontent.com/102867575/161390668-8842a928-3f72-4d9d-b3f9-806f0ea39bc8.png)
+
+Please see user guide for full information and walkthrough.

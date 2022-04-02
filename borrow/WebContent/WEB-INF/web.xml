@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://JAVA.sun.com/xml/ns/javaee"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+	id="WebApp_ID" version="3.0"
+	metadata-complete="false">
+
+	<servlet>
+	    <servlet-name>managelibrarian</servlet-name>
+	    <jsp-file>/managelibrarian.jsp</jsp-file>
+	    <init-param>
+	        <param-name>managelibrarian</param-name>
+	        <param-value>Manage Librarian</param-value>
+	    </init-param>
+	</servlet>
+	
+	<servlet-mapping>
+	    <servlet-name>managelibrarian</servlet-name>
+	    <url-pattern>/managelibrarian</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+	    <servlet-name>managebook</servlet-name>
+	    <jsp-file>/managebook.jsp</jsp-file>
+	    <init-param>
+	        <param-name>managebook</param-name>
+	        <param-value>Manage Book</param-value>
+	    </init-param>
+	</servlet>
+	
+	<servlet-mapping>
+	    <servlet-name>managebook</servlet-name>
+	    <url-pattern>/managebook</url-pattern>
+	</servlet-mapping>
+
+
+
+
+</web-app>

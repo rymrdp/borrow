@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+<title>Borrow - Home</title>
+</head>
+<body class = "index">
+
+<header>
+  <h1>BORROW: e-Library Management System</h1>
+  <nav>
+    <ul class = "nav_links">
+      <li><a href = "#">Home</a></li>
+      <li><a href = "https://www.linkedin.com/in/reymar-dela-paz-0a26a0196/">About</a></li>
+      <li><a href = "https://www.linkedin.com/in/reymar-dela-paz-0a26a0196/">Contact Us</a></li>
+    </ul>
+  </nav>  
+</header> 
+
+  
+<div class = "columns">
+	<div class="column">
+      <h2>Admin Log-in</h2>
+			<form action="AdminLogin" method="post">
+				<div class="user-box">
+          <label>Admin E-mail</label>
+					<input type="text" name="admin_email" required>
+			    </div>
+
+			    <div class="user-box">
+            <label>Password</label>
+			    	<input type="password" name="admin_pw" required>
+			    </div>
+			    <a>
+			    <button type="submit">
+			      <span></span>
+			      <span></span>
+			      <span></span>
+			      <span></span>
+			      Submit
+			    </button>  
+			    </a>
+			</form>
+		</div>	
+	
+	
+	<div class="column">	
+		  <h2>Librarian Log-in</h2>	
+			<form action="LibLogin" method="post">
+				<div class="user-box">
+          <label>Librarian E-mail</label>  
+					<input type="text" name="lib_email" required>
+				</div>
+				
+				<div class="user-box">
+            <label>Password</label>
+			    	<input type="password" name="lib_pw" required>
+			    </div>
+			    <a>
+			    <button type="submit">
+			      <span></span>
+			      <span></span>
+			      <span></span>
+			      <span></span>
+			      Submit
+			    </button>
+			    </a>
+			</form>
+	</div>		
+</div>
+
+ <footer class = "footer">
+   <div class="container">
+    <p>Made with &hearts; by Reymar</p>
+   </div>
+ </footer>  
+  
+</body>
+</html>

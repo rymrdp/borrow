@@ -1,21 +1,21 @@
 # borrow e-Library Management System using JAVA Servlet, JSP and CSS
 
-Objectives
+**Objectives**
 
 The main objective of this project is to have an overall useful library management software that can be able to manage librarians by an admin and librarians can add, maintain, delete books, issue books to students and return books as well.
 
-Tech Stack
+**Tech Stack**
 
 BACK-END: Java Servlet, MYSQL database
 FRONT-END: HTML, JSP, CSS
 
-Tools and Software
+**Tools and Software**
 
 1.	MYSQL database
 2.	IDE – Personally, the developer used Eclipse for the development of this project. This is done with Apache Tomcat Server
 
 
-Who are the users?
+**Who are the users?**
 
 There are two main classifications of users:
 
@@ -23,7 +23,8 @@ a.	Admin – The admin is capable of maintaining the librarians. He or she can e
 
 b.	Librarians – The librarians are capable of adding books, maintaining information of the books, deleting books, issuing books to students and returning books.
  
-Walkthrough
+**Walkthrough**
+
 ![image](https://user-images.githubusercontent.com/102867575/161390628-cdece82b-3e64-4859-ba47-dc516bea3539.png)
 ![image](https://user-images.githubusercontent.com/102867575/161390639-652f42a6-eaa0-41b0-861a-c3ea12dba5e2.png)
 ![image](https://user-images.githubusercontent.com/102867575/161390643-f03b9ec1-63ae-4ac9-ac82-4ef0f97b6d9c.png)
